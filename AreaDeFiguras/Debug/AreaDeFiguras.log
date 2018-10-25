@@ -1,0 +1,2 @@
+﻿DriverAreaDeFigura.obj : error LNK2019: unresolved external symbol "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class Circulo &)" (??5@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV01@AAVCirculo@@@Z) referenced in function _main
+C:\Users\cocac\OneDrive\Documents\POLI\CECS2223\Debug\AreaDeFiguras.exe : fatal error LNK1120: 1 unresolved externals

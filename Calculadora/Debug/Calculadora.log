@@ -1,0 +1,54 @@
+﻿  MyDouble.cpp
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.h(11): error C2143: syntax error: missing ',' before '&'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.h(87): error C2807: the second formal parameter to postfix 'operator ++' must be 'int'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.h(90): error C2807: the second formal parameter to postfix 'operator --' must be 'int'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(9): error C2600: 'MyDouble::MyDouble': cannot define a compiler-generated special member function (must be declared in the class first)
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(41): error C2666: 'MyDouble::operator >=': 4 overloads have similar conversions
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.h(63): note: could be 'bool MyDouble::operator >=(double) const'
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.h(62): note: or       'bool MyDouble::operator >=(const MyDouble &) const'
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.h(64): note: or       'bool operator >=(double,const MyDouble &)' [found using argument-dependent lookup]
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(41): note: or       'built-in C++ operator>=(double, int)'
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(41): note: while trying to match the argument list '(const MyDouble, int)'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(47): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(52): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(57): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(62): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(67): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(72): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(77): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(82): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(87): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(92): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(97): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(102): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(107): error C2296: '%': illegal, left operand has type 'const double'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(107): error C2297: '%': illegal, right operand has type 'const double'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(107): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(112): error C2296: '%': illegal, left operand has type 'const double'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(112): error C2297: '%': illegal, right operand has type 'double'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(112): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(117): error C2296: '%': illegal, left operand has type 'double'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(117): error C2297: '%': illegal, right operand has type 'const double'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(117): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(284): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(289): error C2264: 'MyDouble::MyDouble': error in function definition or declaration; function not called
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(301): error C2666: 'MyDouble::operator -': 4 overloads have similar conversions
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(65): note: could be 'MyDouble MyDouble::operator -(double) const'
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(60): note: or       'MyDouble MyDouble::operator -(const MyDouble &) const'
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(70): note: or       'MyDouble operator -(double,const MyDouble &)'
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(301): note: or       'built-in C++ operator-(double, int)'
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(301): note: while trying to match the argument list '(MyDouble, int)'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(313): error C2666: 'MyDouble::operator +': 4 overloads have similar conversions
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(50): note: could be 'MyDouble MyDouble::operator +(double) const'
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(45): note: or       'MyDouble MyDouble::operator +(const MyDouble &) const'
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(55): note: or       'MyDouble operator +(double,const MyDouble &)'
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(313): note: or       'built-in C++ operator+(double, int)'
+  c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.cpp(313): note: while trying to match the argument list '(MyDouble, int)'
+  MyInt.cpp
+  DriverCalculadora.cpp
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.h(11): error C2143: syntax error: missing ',' before '&'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.h(87): error C2807: the second formal parameter to postfix 'operator ++' must be 'int'
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 daniel original\tipo\mydouble.h(90): error C2807: the second formal parameter to postfix 'operator --' must be 'int'
+  Generating Code...

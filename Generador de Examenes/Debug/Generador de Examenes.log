@@ -1,0 +1,14 @@
+﻿  ListaDeCadenas.cpp
+  MyDate.cpp
+  MyString.cpp
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 done\tipo\mystring.cpp(310): warning C4553: '==': result of expression not used; did you intend '='?
+  MyTime.cpp
+  MyMenu.cpp
+  Encabezado.cpp
+  Examen.cpp
+  Generador.cpp
+  GeneradorDriver.cpp
+  Preguntas.cpp
+  Generating Code...
+c:\users\cocac\onedrive\documents\poli\cecs2223_lab\cecs2223 done\utilidad\mymenu.cpp(82): warning C4172: returning address of local variable or temporary
+  Generador de Examenes.vcxproj -> C:\Users\cocac\OneDrive\Documents\POLI\CECS2223_lab\CECS2223 done\Debug\Generador de Examenes.exe
